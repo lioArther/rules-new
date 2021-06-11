@@ -1,0 +1,17 @@
+
+# > Kugou
+  - DOMAIN,mips.kugou.com,CN 特殊媒体
+
+# > QQ Music
+  - DOMAIN,y.qq.com,CN 特殊媒体
+
+# > iQiyi
+  - DOMAIN-SUFFIX,cache.video.iqiyi.com,CN 特殊媒体
+
+# > bilibili
+  - DOMAIN-SUFFIX,api.bilibili.com,CN 特殊媒体
+  - DOMAIN,www.bilibili.com,CN 特殊媒体
+  
+# > Tencent Video
+  - DOMAIN,v.qq.com,CN 特殊媒体
+  - DOMAIN-SUFFIX,vd.l.qq.com,CN 特殊媒体
