@@ -1,0 +1,16 @@
+# > Kugou
+host,mips.kugou.com,CN 特殊媒体
+
+# > QQ Music
+host,y.qq.com,CN 特殊媒体
+
+# > iQiyi
+host-suffix,cache.video.iqiyi.com,CN 特殊媒体
+
+# > bilibili
+host-suffix,api.bilibili.com,CN 特殊媒体
+host,www.bilibili.com,CN 特殊媒体
+  
+# > Tencent Video
+host,v.qq.com,CN 特殊媒体
+host-suffix,vd.l.qq.com,CN 特殊媒体
