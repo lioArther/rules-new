@@ -1,0 +1,44 @@
+# > 微软网站
+  - DOMAIN,microsoftedge.microsoft.com,DIRECT
+  - DOMAIN,support.microsoft.com,DIRECT
+  - DOMAIN,docs.microsoft.com,DIRECT
+  - DOMAIN,www.microsoft.com,DIRECT
+  - DOMAIN,msdn.microsoft.com,DIRECT
+  - DOMAIN,answers.microsoft.com,DIRECT
+  - DOMAIN,go.microsoft.com,DIRECT
+    # > Microsoft Login
+  - DOMAIN-SUFFIX,logincdn.msauth.net,DIRECT
+  - DOMAIN-SUFFIX,login.live.com,DIRECT
+  - DOMAIN-SUFFIX,acctcdn.msauth.net,DIRECT
+  - DOMAIN-SUFFIX,account.live.com,DIRECT
+    # >#OneNote 
+  - DOMAIN-SUFFIX,hierarchyapi.onenote.com,DIRECT
+  - DOMAIN-SUFFIX,contentsync.onenote.com,DIRECT
+    # >#Xbox Live CDN
+  - DOMAIN-SUFFIX,images-eds.xboxlive.com,DIRECT
+  - DOMAIN-SUFFIX,xbl-smooth.xboxlive.com,DIRECT
+  - DOMAIN-SUFFIX,gameclipscontent-d2009.xboxlive.com,DIRECT
+  - DOMAIN-SUFFIX,compass.xboxlive.com,DIRECT
+  - DOMAIN-SUFFIX,titlehub.xboxlive.com,DIRECT
+  - DOMAIN-SUFFIX,xnotify.xboxlive.com,DIRECT
+  - DOMAIN-SUFFIX,activityhub.xboxlive.com,DIRECT
+  - DOMAIN-SUFFIX,xboxcare.xboxlive.com,DIRECT
+  - DOMAIN-SUFFIX,images-eds-ssl.xboxlive.com,DIRECT
+  - DOMAIN-SUFFIX,rta.xboxlive.com,DIRECT
+  - DOMAIN-SUFFIX,editorial.xboxlive.com,DIRECT
+  - DOMAIN-SUFFIX,peoplehub.xboxlive.com,DIRECT
+  - DOMAIN-SUFFIX,titlestorage.xboxlive.com,DIRECT
+    # >Office CDN
+  - DOMAIN-SUFFIX,officecdn.microsoft.com,DIRECT
+    # >Microsoft Store Images
+  - DOMAIN-SUFFIX,store-images.s-microsoft.com,DIRECT
+    # >Microsoft Store Pages
+  - DOMAIN-SUFFIX,storeedgefd.dsx.mp.microsoft.com,DIRECT
+    # >Microsoft Games Download
+  - DOMAIN-SUFFIX,xvcf1.xboxlive.com,DIRECT
+  - DOMAIN-SUFFIX,xvcf2.xboxlive.com,DIRECT
+    # >Windows Update
+  - DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com,DIRECT
+  - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com,DIRECT
+  - DOMAIN-SUFFIX,assets1.xboxlive.cn,DIRECT
+  - DOMAIN-SUFFIX,assets2.xboxlive.cn,DIRECT
